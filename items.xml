@@ -1,0 +1,42 @@
+<root>
+  <items>
+    <id number="true">1</id>
+    <text>Learn about Polymer</text>
+    <created_at>Mon Apr 26 06:01:55 +0000 2015</created_at>
+    <Tags>Web Development</Tags>
+    <Tags>Web Components</Tags>
+    <is_complete boolean="true">true</is_complete>
+  </items>
+  <items>
+    <id number="true">2</id>
+    <text>Watch Pluralsight course on Docker</text>
+    <created_at>Tue Mar 02 07:01:55 +0000 2015</created_at>
+    <Tags>Devops</Tags>
+    <Tags>Docker</Tags>
+    <is_complete boolean="true">true</is_complete>
+  </items>
+  <items>
+    <id number="true">3</id>
+    <text>Complete presentation prep for Aurelia presentation</text>
+    <created_at>Wed Mar 05 10:01:55 +0000 2015</created_at>
+    <Tags>Presentation</Tags>
+    <Tags>Aureia</Tags>
+    <is_complete boolean="true">false</is_complete>
+  </items>
+  <items>
+    <id number="true">4</id>
+    <text>Instrument creation of development environment with Puppet</text>
+    <created_at>Fri June 30 13:00:00 +0000 2015</created_at>
+    <Tags>Devops</Tags>
+    <Tags>Puppet</Tags>
+    <is_complete boolean="true">false</is_complete>
+  </items>
+  <items>
+    <id number="true">5</id>
+    <text>Transition code base to ES6</text>
+    <created_at>Mon Aug 01 10:00:00 +0000 2015</created_at>
+    <Tags>ES6</Tags>
+    <Tags>Web Development</Tags>
+    <is_complete boolean="true">false</is_complete>
+  </items>
+</root>
